@@ -1,0 +1,111 @@
+[
+{
+    "id": 1,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 65000,
+    "originalPrice": 88000,
+    "rating": 4.5,
+    "imageUrl": "images/laptop.jpeg"
+},
+{
+    "id": 2,
+    "name": "Running shoes",
+    "category": "Footwear",
+    "price":3200,
+    "originalPrice": 5000,
+    "rating": 4.8,
+    "imageUrl": "images/adidasrunning.jpeg"
+},
+{
+    "id": 3,
+    "name": "crocs",
+    "category": "Footwear",
+    "price": 4800,
+    "originalPrice": 6500,
+    "rating": 4.3,
+    "imageUrl": "images/crocsclassic.jpeg"
+},
+{
+    "id": 4,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 3000,
+    "originalPrice": 3800,
+    "rating": 4.6,
+    "imageUrl": "images/Jacket.jpeg"
+},
+{
+    "id": 5,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 2100,
+    "originalPrice":2700,
+    "rating": 4.2,
+    "imageUrl": "images/Jeans.jpeg"
+},
+{
+    "id": 6,
+    "name": "casual shoes",
+    "category": "Footwear",
+    "price": 2300,
+    "originalPrice":2700,
+    "rating": 4.7,
+    "imageUrl": "images/men casual.jpeg"
+},
+{
+    "id": 7,
+    "name": "Mobilephone",
+    "category": "Electronics",
+    "price": 155000,
+    "originalPrice": 180000,
+    "rating": 4.8,
+    "imageUrl": "images/Mobilephone.jpeg"
+},
+{
+    "id": 8,
+    "name": "Pathummayude aadu",
+    "category": "Books",
+    "price": 650,
+    "originalPrice": 800,
+    "rating": 4.9,
+    "imageUrl": "images/Pathummayude adu.jpeg"
+},
+{
+    "id": 9,
+    "name": "Sherlock Holmes",
+    "category": "Books",
+    "price": 1100,
+    "originalPrice": 1250,
+    "rating": 4.8,
+    "imageUrl": "images/Sherlockholmes.jpeg"
+},
+{
+    "id": 10,
+    "name": "Smartwatch",
+    "category": "Electronics",
+    "price": 18000,
+    "originalPrice":21000,
+    "rating": 4.4,
+    "imageUrl": "images/Smartwatch.jpeg"
+},
+{
+    "id": 11,
+    "name": "Tshirt",
+    "category": "Clothing",
+    "price": 2600,
+    "originalPrice": 3000,
+    "rating": 4.5,
+    "imageUrl": "images/tshirt.jpeg"
+},
+{
+    "id": 12,
+    "name": "Wings of fire",
+    "category": "Books",
+    "price": 999,
+    "originalPrice":1099,
+    "rating": 4.8,
+    "imageUrl": "images/wings of fire.jpeg"
+}
+
+]
